@@ -19,7 +19,7 @@
 }
 
 .introducao img{
-    margin-bottom: -120px;
+    /* margin-bottom: -120px; */
     border-radius: 6px;
 }
 
@@ -61,7 +61,6 @@
         padding-bottom: 0px;
     }
     .introducao h1{
-        font-size: 32px;
         margin-bottom: 16px;
     }
     .introducao img{
